@@ -18,7 +18,7 @@ Sh hw2_seq2seq.sh MLDS_hw2_1_data/testing_data/feat output.txt to run the testin
 
 Provide a directory path with the directory feat/ and all of the .npy files inside as the second input.
 
-python training.py is used to run the training.
+python model_seq2seq.py is used to run the training.
 
 
 
